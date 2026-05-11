@@ -4,8 +4,6 @@
 
 ### **Neural-grade market intelligence for next-gen investors and builders.**
 
-_Banner:_ This repository includes a hero image at `frontend/public/dashboard-hero.png` (optional to replace with your own branded banner).
-
 <img src="frontend/public/dashboard-hero.png" alt="Aura.AI Banner" width="100%" />
 
 <br/>
@@ -121,7 +119,7 @@ pip install -r requirements.txt
 ### 4) Run frontend (Vite)
 ```bash
 cd frontend
-npm run start:frontend
+npm run start:frontend # defined in frontend/package.json
 ```
 
 ### 5) Run backend (FastAPI)
@@ -193,7 +191,7 @@ curl -X POST http://localhost:8000/api/chat \
   }'
 ```
 
-### Screenshot placeholders
+### Screenshot placeholders _(coming soon)_
 - `docs/screenshots/dashboard.png`
 - `docs/screenshots/ai-scanner.png`
 - `docs/screenshots/aura-assistant.png`
@@ -299,7 +297,7 @@ Distributed under the MIT License. See `LICENSE` for details.
 - Add realtime pulse indicators for live signals
 
 ### GitHub profile trophy suggestions
-[GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Godse-07&theme=algolia&no-frame=true&margin-w=8)
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Godse-07&theme=algolia&no-frame=true&margin-w=8)
 
 ### SEO-friendly project wording
 Use keywords in repo description/topics:
