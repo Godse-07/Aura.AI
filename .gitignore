@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Build outputs
+dist/
+build/
+frontend/dist/
+frontend/build/
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Datasets (Ignored to keep GitHub clean/fast)
+*.csv
+
+# Unused folders
+backend/
+
+# System files
+.DS_Store
