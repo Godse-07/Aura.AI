@@ -5,7 +5,7 @@
 ### **Neural-grade market intelligence for next-gen investors and builders.**
 
 <p>
-  <em>Banner suggestion:</em> Add a cinematic dark-neon dashboard banner at <code>frontend/public/dashboard-hero.png</code> and reference it below.
+  <em>Banner:</em> This repository includes a hero image at <code>frontend/public/dashboard-hero.png</code> (optional to replace with your own branded banner).
 </p>
 
 <img src="frontend/public/dashboard-hero.png" alt="Aura.AI Banner" width="100%" />
@@ -18,8 +18,8 @@
 [![Build](https://img.shields.io/badge/build-Vite-646cff?style=for-the-badge)](#-installation)
 [![Deploy](https://img.shields.io/badge/deploy-Vercel-black?style=for-the-badge)](#-installation)
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_App-7c3aed?style=for-the-badge)](https://your-demo-link.vercel.app)
-[![API Docs](https://img.shields.io/badge/📘_API-Documentation-0ea5e9?style=for-the-badge)](https://your-api-docs-link)
+[![Repository](https://img.shields.io/badge/🚀_Repository-Open_on_GitHub-7c3aed?style=for-the-badge)](https://github.com/Godse-07/Aura.AI)
+[![Issues](https://img.shields.io/badge/📘_Project-Issues_%26_Tracking-0ea5e9?style=for-the-badge)](https://github.com/Godse-07/Aura.AI/issues)
 
 ![GitHub stars](https://img.shields.io/github/stars/Godse-07/Aura.AI?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Godse-07/Aura.AI?style=social)
@@ -281,11 +281,11 @@ Distributed under the MIT License. See `LICENSE` for details.
 
 ## 👨‍💻 Author
 
-**Your Name**  
-- Portfolio: [https://your-portfolio.dev](https://your-portfolio.dev)  
-- LinkedIn: [https://linkedin.com/in/your-handle](https://linkedin.com/in/your-handle)  
-- Twitter/X: [https://x.com/your-handle](https://x.com/your-handle)  
-- GitHub: [https://github.com/your-handle](https://github.com/your-handle)
+**Godse-07**  
+- Portfolio: _Add your portfolio URL_  
+- LinkedIn: _Add your LinkedIn profile URL_  
+- Twitter/X: _Add your X handle URL_  
+- GitHub: [https://github.com/Godse-07](https://github.com/Godse-07)
 
 ---
 
@@ -303,7 +303,7 @@ Distributed under the MIT License. See `LICENSE` for details.
 - Add realtime pulse indicators for live signals
 
 ### GitHub profile trophy suggestions
-Use: `https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=8`
+Use: `https://github-profile-trophy.vercel.app/?username=Godse-07&theme=algolia&no-frame=true&margin-w=8`
 
 ### SEO-friendly project wording
 Use keywords in repo description/topics:
