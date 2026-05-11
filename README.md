@@ -124,8 +124,8 @@ npm run start:frontend # defined in frontend/package.json
 
 ### 5) Run backend (FastAPI)
 ```bash
-# From project root (adjust module path to your backend entrypoint)
-uvicorn backend.main:app --reload --host 0.0.0.0 --port 8000
+# From project root
+uvicorn api.index:app --reload --host 0.0.0.0 --port 8000
 ```
 
 ### 6) Build for production
@@ -139,7 +139,7 @@ npm run build
 
 ## 🔐 Environment Variables Setup
 
-Create a `.env` in your backend root (example):
+Create a `.env` in the project root (example):
 
 ```bash
 # Core
@@ -192,9 +192,9 @@ curl -X POST http://localhost:8000/api/chat \
 ```
 
 ### Screenshot placeholders _(coming soon)_
-- `docs/screenshots/dashboard.png`
-- `docs/screenshots/ai-scanner.png`
-- `docs/screenshots/aura-assistant.png`
+- `frontend/public/screenshots/dashboard.png`
+- `frontend/public/screenshots/ai-scanner.png`
+- `frontend/public/screenshots/aura-assistant.png`
 
 ---
 
