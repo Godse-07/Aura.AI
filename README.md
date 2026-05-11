@@ -4,9 +4,7 @@
 
 ### **Neural-grade market intelligence for next-gen investors and builders.**
 
-<p>
-  <em>Banner:</em> This repository includes a hero image at <code>frontend/public/dashboard-hero.png</code> (optional to replace with your own branded banner).
-</p>
+_Banner:_ This repository includes a hero image at `frontend/public/dashboard-hero.png` (optional to replace with your own branded banner).
 
 <img src="frontend/public/dashboard-hero.png" alt="Aura.AI Banner" width="100%" />
 
@@ -137,6 +135,7 @@ uvicorn backend.main:app --reload --host 0.0.0.0 --port 8000
 # From project root
 npm run build
 ```
+> This root script triggers `frontend` install + production build.
 
 ---
 
@@ -300,7 +299,7 @@ Distributed under the MIT License. See `LICENSE` for details.
 - Add realtime pulse indicators for live signals
 
 ### GitHub profile trophy suggestions
-Use: `https://github-profile-trophy.vercel.app/?username=Godse-07&theme=algolia&no-frame=true&margin-w=8`
+[GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Godse-07&theme=algolia&no-frame=true&margin-w=8)
 
 ### SEO-friendly project wording
 Use keywords in repo description/topics:
