@@ -65,7 +65,7 @@ Aura.AI is an AI-powered market intelligence platform that combines portfolio vi
 |---|---|
 | **Frontend** | React, TypeScript, Vite, Tailwind CSS, Framer Motion, Recharts |
 | **Backend** | FastAPI, Uvicorn |
-| **Data/ML** | pandas, scikit-learn, yfinance *(prophet planned/used)* |
+| **Data/ML** | pandas, scikit-learn, yfinance |
 | **DevOps / Deploy** | Vercel rewrites, npm scripts |
 | **Tooling** | ESLint, TypeScript Compiler, PostCSS, Autoprefixer |
 
@@ -282,9 +282,6 @@ Distributed under the MIT License. See `LICENSE` for details.
 ## 👨‍💻 Author
 
 **Godse-07**  
-- Portfolio: _Add your portfolio URL_  
-- LinkedIn: _Add your LinkedIn profile URL_  
-- Twitter/X: _Add your X handle URL_  
 - GitHub: [https://github.com/Godse-07](https://github.com/Godse-07)
 
 ---
